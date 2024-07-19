@@ -4,13 +4,62 @@
       { "id": "2", "title": "another title", "views": 200 }
     ],
     "products":[
-      {"id":1 , "title":"HeathCare" , "desc":"100% Sucure Payment","price":"$14.6","discount":"20.00$"}
+      {
+        "id":1 , 
+        "title":"HeathCare" , 
+        "desc":"100% Sucure Payment",
+        "price":"$14.6",
+        "discount":"20.00$",
+        "images":"https://www.doctorsbest.com/cdn/shop/files/71_43828b50-4dc9-4d20-9c28-3ef813b21014.jpg?v=1707521681&width=533"
+      },
+      {
+        "id":1 , 
+        "title":"HeathCare" , 
+        "desc":"100% Sucure Payment",
+        "price":"$14.6",
+        "discount":"20.00$",
+        "images":"https://solsidenspa.no/wp-content/uploads/BABOR-EYE-LIP-SERUM-2.jpeg"
+      },
+      {
+        "id":1 ,
+         "title":"HeathCare" , 
+         "desc":"100% Sucure Payment",
+         "price":"$14.6",
+         "discount":"20.00$",
+         "images":"https://www.doctorrogers.com/cdn/shop/files/Night_Vessel_w_carton_sq.png?v=1695149539&width=1946"
+        },
+      {
+        "id":1 , 
+        "title":"HeathCare" ,
+        "desc":"100% Sucure Payment",
+        "price":"$14.6",
+        "discount":"20.00$",
+        "images":"https://shop.beauty-heroes.com/cdn/shop/files/DoctorRogers_NightTreatment_740_600x.jpg?v=1698428594"
+      },
+      {
+        "id":1 , 
+        "title":"HeathCare" ,
+        "desc":"100% Sucure Payment",
+        "price":"$14.6",
+        "discount":"20.00$",
+        "images":"https://shop.beauty-heroes.com/cdn/shop/files/DoctorRogers_NightTreatment_740_600x.jpg?v=1698428594"
+      },
+      {
+        "id":1 , 
+        "title":"HeathCare" ,
+        "desc":"100% Sucure Payment",
+        "price":"$14.6",
+        "discount":"20.00$",
+        "images":"https://shop.beauty-heroes.com/cdn/shop/files/DoctorRogers_NightTreatment_740_600x.jpg?v=1698428594"
+      }
     ],
     "category" : [
         {"id" : 1 , "imgage": "../public/images/image 2.png" , "desc":"Money Back Gaurantee"},
         {"id" : 2 , "imgage": "../public/images/image 1 (4).png" , "desc":"Warranty 30 day"},
         {"id" : 3 , "imgage": "../public/images/image 1 (2).png" , "desc":"Gaurantee"},
         {"id" : 4 , "imgage": "../public/images/image 1 (3).png" , "desc":"category sell"},
+        {"id" : 5 , "imgage": "../public/images/image 1 (1).png" , "desc":"Money"},
         {"id" : 5 , "imgage": "../public/images/image 1 (1).png" , "desc":"Money"}
+
     ]
 }
